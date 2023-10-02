@@ -1,2 +1,3 @@
 # NoahRitter_CPTS101
-Github Repository example assignment
+Github repository example assignment
+Noah Ritter noah.ritter@wsu.edu
